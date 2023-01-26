@@ -1,0 +1,27 @@
+body{
+    background:black;
+}
+input{
+    background:yellow;
+    margin-right: 90%;
+    font-size:20px;
+    border:2px solid white;
+}
+#n1{
+    background:red;
+    margin-right: 80%;
+    font-size:25px;
+    border:2px solid white;
+
+}
+p{
+    background:blue;
+    margin-right: 90%;
+    font-size:20px;
+    border:2px solid white;
+}
+button{
+    background:purple;
+    font-size:30px;
+    border:2px solid white;
+}
